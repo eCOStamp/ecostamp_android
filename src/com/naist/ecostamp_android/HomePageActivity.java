@@ -17,6 +17,7 @@ public class HomePageActivity extends Activity implements OnMenuItemClickListene
 	}
 
 	// Menu Handler 
+	//http://developer.android.com/guide/topics/ui/menus.html
 	public void showRightMenu(View v) {
 		PopupMenu popup = new PopupMenu(this, v);
 		popup.setOnMenuItemClickListener(this);
