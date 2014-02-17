@@ -12,23 +12,23 @@
     <string name="twitter">Twitter</string>
     <string name="hint_for_twitter">Input Twitter</string>
     <string name="connect_button">Connect</string>
-    
-     <string name="email">Email</string>
+    <string name="email">Email</string>
     <string name="email_hint">Enter Your Email</string>
     <string name="password">Password</string>
     <string name="password_hint">Enter Your Password</string>
     <string name="login">Login</string>
-	<string name="sign_up">Sign Up</string>
-	<string name="confirmation">Confirmation</string>
-	<string name="confirmation_hint">Retype Your Password</string>
-	<string name="confirm">Confirm</string>
-	<string name="home_logo_content">Home Logo</string>
-	<string name="home_title">Home</string>
-	<string name="home_my_stamp">My Stamp</string>
-	<string name="home_personal_info">Personal Information</string>
-	<string name="home_picture_content">Home Picture Content</string>
-	<string name="home_menu_add_stamp">Add Stamp</string>
-	<string name="home_menu_setting">Setting</string>
-	<string name="home_menu_log_out">Logout</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="confirmation">Confirmation</string>
+    <string name="confirmation_hint">Retype Your Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="home_logo_content">Home Logo</string>
+    <string name="home_title">Home</string>
+    <string name="home_my_stamp">My Stamp</string>
+    <string name="home_personal_info">Personal Information</string>
+    <string name="home_picture_content">Home Picture Content</string>
+    <string name="home_menu_add_stamp">Add Stamp</string>
+    <string name="home_menu_setting">Setting</string>
+    <string name="home_menu_log_out">Logout</string>
+    <string name="title_activity_test">TestActivity</string>
 
 </resources>
