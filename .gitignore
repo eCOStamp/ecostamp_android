@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Android.gitignore
 # built application files
 *.apk
@@ -60,3 +61,6 @@ Thumbs.db
 
 # Folder config file
 Desktop.ini
+=======
+*.DS_Store
+>>>>>>> 83fce93... add .gitignore
